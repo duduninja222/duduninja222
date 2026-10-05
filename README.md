@@ -2,11 +2,11 @@
 
 <!-- ===== CABEÇALHO ===== --> 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Olá,%20eu%20sou%20EDUARDO%20VIEIRA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20•%20Criador%20•%20Eterno%20aprendiz&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Olá,%20eu%20sou%20EDUARDO%20VIEIRA%20MARQUES&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20•%20Criador%20•%20Eterno%20aprendiz&descAlignY=58&descSize=16" />
   <!-- Texto animado -->
   <a href="https://github.com/SEU-USUARIO"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" alt="Typing SVG" /> </a> <br/> 
   <!-- Contador de visitas --> 
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visitas&color=a855f7&style=flat-square" /> </div>
+  <img src="https://komarev.com/ghpvc/?username=duduninja222&label=Visitas&color=a855f7&style=flat-square" /> </div>
 
 
 👨‍💻 Sobre mim
