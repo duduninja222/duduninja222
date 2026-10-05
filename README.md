@@ -30,6 +30,9 @@
   <img src="https://streak-stats.demolab.com/?user=duduninja222&theme=tokyonight&hide_border=true&background=0d1117" /> 
 </div>
 
+<div>
+  <img src="https://raw.githubusercontent.com/duduninja222/duduninja222/output/snake.svg" alt="Snake animation" />
+</div>
 
 ##
 
