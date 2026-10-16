@@ -6,7 +6,7 @@
   <!-- Texto animado -->
   <a href="https://github.com/SEU-USUARIO"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" alt="Typing SVG" /> </a> <br/> 
   <!-- Contador de visitas --> 
-  <img src="https://komarev.com/ghpvc/?username=duduninja222&label=Visitas&color=a855f7&style=flat-square" /> </div>
+  <img src="https://komarev.com/ghpvc/?username=duduninja222&label=Visitas&color=a855f7&style=flat-square"/> </div>
 
 
 👨‍💻 Sobre mim
